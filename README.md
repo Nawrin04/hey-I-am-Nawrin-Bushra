@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -71,9 +70,7 @@
                 <button type="submit">Send</button>
             </form>
         </section>
-
     </main>
-
     <footer>
         <p>© 2026 My Website</p>
     </footer>
